@@ -178,5 +178,6 @@ body{
     .rightaerrow{
         color: white;
         margin-left: -15%;
+        z-index: 1;             /* put right arrow upper to image */
     }
 }
